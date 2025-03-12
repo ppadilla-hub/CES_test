@@ -12,7 +12,7 @@ Vous avez accès à la liste des modifications des fichiers en cliquant sur "His
 
 ![history](https://github.com/user-attachments/assets/7b130fe9-d707-45e0-a38d-a7b4fc9f9f9d)
 
-On peut ainsi afficher le fichier à des étapes antérieures et le télécharger offrant un suivi
+On peut ainsi afficher le fichier à des étapes antérieures et le  télécharger
 
 ![Modifications](https://github.com/user-attachments/assets/3e4fe6a2-ee79-499e-aa8d-3259ecf6f345)
 
